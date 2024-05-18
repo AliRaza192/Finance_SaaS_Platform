@@ -21,22 +21,22 @@ const routes = [
   },
 
   {
-    href: "transactions",
+    href: "/transactions",
     label: "Transactions",
   },
 
   {
-    href: "account",
-    label: "Account",
+    href: "/accounts",
+    label: "Accounts",
   },
 
   {
-    href: "categories",
+    href: "/categories",
     label: "Categories",
   },
 
   {
-    href: "settings",
+    href: "/settings",
     label: "Settings",
   },
 ];
